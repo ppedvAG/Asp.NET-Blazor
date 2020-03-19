@@ -1,0 +1,741 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1713,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "ZBojvNbJ8tUC",
+   "etag": "kdhj0fMAUvI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZBojvNbJ8tUC",
+   "volumeInfo": {
+    "title": "Krankheiten der Katze",
+    "subtitle": "143 Tabellen",
+    "authors": [
+     "Marian C. Horzinek"
+    ],
+    "publisher": "Georg Thieme Verlag",
+    "publishedDate": "2005",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3830410492"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783830410492"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 880,
+    "printType": "BOOK",
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ZBojvNbJ8tUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ZBojvNbJ8tUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.de/books?id=ZBojvNbJ8tUC&pg=PA333&dq=katze&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.de/books?id=ZBojvNbJ8tUC&dq=katze&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Krankheiten_der_Katze.html?hl=&id=ZBojvNbJ8tUC"
+   },
+   "saleInfo": {
+    "country": "DE",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "DE",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ZBojvNbJ8tUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "1 2 Krankheiten des Magen-Darm-Traktes Tim J. Gruffydd-Jones CS 7 \u003cb\u003eKatze\u003c/b\u003e, 1 \u003cbr\u003e\nJahr, Erbrechen, Anorexie, sistierende Defäkation, rapider. 333 Kapitelübersicht \u003cbr\u003e\n12.1 Erkrankungen des Ösophagus 333 12.1.1 Klinische Symptomatik 333 12.1.\u003cbr\u003e\n2&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "v0edSj3bvu8C",
+   "etag": "sM7kuEaXk+k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/v0edSj3bvu8C",
+   "volumeInfo": {
+    "title": "Die Katze, die Gedanken las",
+    "subtitle": "Roman",
+    "authors": [
+     "Lilian Jackson Braun"
+    ],
+    "publisher": "BASTEI LÜBBE",
+    "publishedDate": "2009-01-13",
+    "description": "Kann Kater Koko wirklich hellsehen? Und warum hat er sechzig Schnurrharre? Auch wenn die kleine Stadt Pickax 400 Meilen nördlich vom Rest der Welt liegt, wird es nie langweilig für Lokalreporter Qwilleran und seine Katzen Koko und Yum Yum: Das Musical \"Cats\" soll aufgeführt werden, die Proben sind in vollem Gange. Mitten im Trubel wird eine junge Frau von einer Biene gestochen - und stirbt! War es wirklich ein Unfall? Kater Koko benimmt sich jedenfalls seltsam. Wittert er ein Verbrechen? Qwilleran weiß, dass Koko niemals irrt und begibt sich auf die Spur des Täters.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3404159586"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783404159581"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=v0edSj3bvu8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=v0edSj3bvu8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.de/books?id=v0edSj3bvu8C&printsec=frontcover&dq=katze&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.de/books?id=v0edSj3bvu8C&dq=katze&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Die_Katze_die_Gedanken_las.html?hl=&id=v0edSj3bvu8C"
+   },
+   "saleInfo": {
+    "country": "DE",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "DE",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=v0edSj3bvu8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Kann Kater Koko wirklich hellsehen?"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CJ0uBQAAQBAJ",
+   "etag": "t6S78h7+IuU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CJ0uBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Orthopädie bei der Katze",
+    "subtitle": "Erkrankungen und Therapie des Bewegungsapparates",
+    "authors": [
+     "Harry W. Scott",
+     "Ronald Mc Laughlin"
+    ],
+    "publisher": "Schlütersche",
+    "publishedDate": "2010-12-06",
+    "description": "Orthopädie der Katze - von A bis Z in einem Buch! Es gibt viele kleine, einige große und für den Tierarzt insgesamt wichtige orthopädische Unterschiede zwischen Hund und Katze. Allerdings steht meistens der Hund im Mittelpunkt in den Fachbüchern. Die Autoren dieses Werkes haben daher alle Besonderheiten der Katze in Bezug auf Anatomie, Erkrankungen im Bereich des Skeletts und der Skelettmuskulatur sowie Chirurgie zusammengestellt. In einem eigenen Kapitel gehen sie ausführlich auf die Folgen von Stürzen oder Verkehrsunfällen ein, denen Katzen häufig zum Opfer fallen. Über 450 instruktive Abbildungen, hauptsächlich anatomische und chirurgische Zeichnungen sowie Röntgenbilder und anatomische Fotos, machen das Buch auch zu einem visuellen Ratgeber. Das Werk deckt die Orthopädie der Katze im Ganzen ab. Querverweise zu anderen chirurgischen Standardwerken werden vermieden. So hat der Tierarzt im Bedarfsfall mit einem Griff das richtige Buch für seinen orthopädischen Katzenpatient zur Hand!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783842680227"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3842680228"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 400,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=CJ0uBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=CJ0uBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.de/books?id=CJ0uBQAAQBAJ&printsec=frontcover&dq=katze&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=CJ0uBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=CJ0uBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "DE",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 79.99,
+     "currencyCode": "EUR"
+    },
+    "retailPrice": {
+     "amount": 79.99,
+     "currencyCode": "EUR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=CJ0uBQAAQBAJ&rdid=book-CJ0uBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 7.999E7,
+       "currencyCode": "EUR"
+      },
+      "retailPrice": {
+       "amountInMicros": 7.999E7,
+       "currencyCode": "EUR"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "DE",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.de/books/download/Orthop%C3%A4die_bei_der_Katze-sample-pdf.acsm?id=CJ0uBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=CJ0uBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Orthopädie der Katze - von A bis Z in einem Buch!"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vEaZztw9xegC",
+   "etag": "OYMBOiVGwkU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vEaZztw9xegC",
+   "volumeInfo": {
+    "title": "Verhaltenstherapie der Katze",
+    "authors": [
+     "Wolf-Dieter Schmidt"
+    ],
+    "publisher": "Schlütersche",
+    "publishedDate": "2003",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "387706891X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783877068915"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 162,
+    "printType": "BOOK",
+    "categories": [
+     "Cats"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=vEaZztw9xegC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=vEaZztw9xegC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.de/books?id=vEaZztw9xegC&pg=PA29&dq=katze&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.de/books?id=vEaZztw9xegC&dq=katze&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Verhaltenstherapie_der_Katze.html?hl=&id=vEaZztw9xegC"
+   },
+   "saleInfo": {
+    "country": "DE",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "DE",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=vEaZztw9xegC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Die \u003cb\u003eKatze\u003c/b\u003e döst in Sphinxhaltung mit ausgestreckten Vordergliedmaßen und unter \u003cbr\u003e\ndas Becken gezogenen Hintergliedmaßen mit halbgeschlossenen Augen und \u003cbr\u003e\nruht oder beobachtet mit engen Pupillen ihre Umgebung. \u003cb\u003eKatzen\u003c/b\u003e beobachten&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "R_KPFSI0_QMC",
+   "etag": "Z53hvT7cTi4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/R_KPFSI0_QMC",
+   "volumeInfo": {
+    "title": "Verhaltensmedizin bei der Katze",
+    "subtitle": "Leitsymptome, Diagnostik, Therapie und Prävention",
+    "authors": [
+     "Sabine Schroll",
+     "Joël Dehasse"
+    ],
+    "publisher": "Georg Thieme Verlag",
+    "publishedDate": "2004",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3830410417"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783830410416"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 211,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=R_KPFSI0_QMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=R_KPFSI0_QMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.de/books?id=R_KPFSI0_QMC&pg=PA31&dq=katze&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.de/books?id=R_KPFSI0_QMC&dq=katze&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Verhaltensmedizin_bei_der_Katze.html?hl=&id=R_KPFSI0_QMC"
+   },
+   "saleInfo": {
+    "country": "DE",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "DE",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=R_KPFSI0_QMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Unter Freilaufbedingungen wechselt die \u003cb\u003eKatze\u003c/b\u003e die Ausscheidungsplätze \u003cbr\u003e\nwahrscheinlich aus hygienischen Gründen immer wieder. Im Durchschnitt setzen \u003cbr\u003e\n\u003cb\u003eKatzen\u003c/b\u003e 2- bis 3-mal täglich Harn und einmal täglich Kot ab. Individuelle \u003cbr\u003e\nAbweichungen&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YaF4xjPZjjAC",
+   "etag": "o7LDabEfOyk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YaF4xjPZjjAC",
+   "volumeInfo": {
+    "title": "Praktische Hämatologie bei Hund und Katze",
+    "authors": [
+     "Reinhard Mischke"
+    ],
+    "publisher": "Schlütersche",
+    "publishedDate": "2003",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3877067166"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783877067161"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 216,
+    "printType": "BOOK",
+    "categories": [
+     "Cats"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=YaF4xjPZjjAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=YaF4xjPZjjAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.de/books?id=YaF4xjPZjjAC&pg=PA87&dq=katze&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.de/books?id=YaF4xjPZjjAC&dq=katze&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Praktische_H%C3%A4matologie_bei_Hund_und_Kat.html?hl=&id=YaF4xjPZjjAC"
+   },
+   "saleInfo": {
+    "country": "DE",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "DE",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=YaF4xjPZjjAC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "B. allergische Bronchitis der \u003cb\u003eKatze\u003c/b\u003e) und kardiovaskuläre Erkrankungen mit \u003cbr\u003e\nRechts-links-Shunt (z. B. Ductus arteriosus, atrialer oder Ventrikelseptumdefekt \u003cbr\u003e\nmit gleichzeitiger Pulmonalstenose). Durch einen über längere Zeit verminderten\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Fe0eMMQ9kc4C",
+   "etag": "NOg2/Fj2JYE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Fe0eMMQ9kc4C",
+   "volumeInfo": {
+    "title": "Praktische Dermatologie bei Hund und Katze",
+    "subtitle": "Klinik, Diagnose, Therapie",
+    "authors": [
+     "Chiara Noli",
+     "Fabia Scarampella"
+    ],
+    "publisher": "Schlütersche",
+    "publishedDate": "2005",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3877067131"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783877067130"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 381,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.4.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Fe0eMMQ9kc4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Fe0eMMQ9kc4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.de/books?id=Fe0eMMQ9kc4C&pg=PA145&dq=katze&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.de/books?id=Fe0eMMQ9kc4C&dq=katze&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Praktische_Dermatologie_bei_Hund_und_Kat.html?hl=&id=Fe0eMMQ9kc4C"
+   },
+   "saleInfo": {
+    "country": "DE",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "DE",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Fe0eMMQ9kc4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "21.1 Pathogenese der Symptome - Den Knötchen liegen sowohl beim Hund als \u003cbr\u003e\nauch bei der \u003cb\u003eKatze\u003c/b\u003e eine Wucherung von Zellen zugrunde. Ihre Ursache ist in \u003cbr\u003e\nentzündlichen – sterilen oder infektiösen – oder neoplastischen Prozessen zu&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OJO-ywEACAAJ",
+   "etag": "AP37nn6rux4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OJO-ywEACAAJ",
+   "volumeInfo": {
+    "title": "Katzenerziehung",
+    "subtitle": "Wie Sie Ihre Katze Richtig Verstehen und Ihr Kitten Mit Clicker and Katzen-Spielzeug Optimal Fördern - Erziehung, Haltung und Pflege in Einfachen Schritten Inkl. Tricks und Spiele",
+    "authors": [
+     "Theodor Roswell"
+    ],
+    "publishedDate": "2019-10-31",
+    "description": "Katzenerziehung - Das neue Buch von Bestseller Autor Theodor Roswell! Sie halten eine oder mehrere Katzen? Oder Sie planen, sich eine Katze anzuschaffen? Sie möchten bei der Katzenerziehung alles richtig machen? Dann ist dieser Katzenratgeber die perfekte Anleitung für Sie! Jeder, der sich für die Haltung einer oder mehrerer Samtpfötchen entscheidet, sollte sich zuvor mit dem Thema und der optimalen Katzenhaltung beschäftigen. Denn Katzen benötigen neben dem Futter auch jede Menge Zuwendung und Zeit für Kuscheleinheiten sowie für Spiele. Auch ist es wichtig Ihren Stubentiger, ganz gleich ob Britisch Kurzhaar, Siamkatze, Bengal Katze oder Perserkatze, für die Transportbox und den Tierarztbesuch zu trainieren. Damit Ihr Kätzchen auch zu Ihnen passt, sollten Sie sich mit den verschiedenen Katzenrassen auseinandersetzen. Denn wie bei Hunden hat auch jede Rasse so ihre Eigenheiten. Damit das Leben mit Ihrer Katze nicht nur gelingt, sondern auch von Harmonie und gegenseitigem Vertrauen bestimmt ist, ist es ebenso bedeutend, dass Sie Ihre Katze verstehen, indem Sie lernen die Katzensprache zu deuten! Mit diesem Katzenbuch sind Sie bestens auf das Leben mit Ihrem Vierbeiner auf Samtpfoten vorbereitet! Dieses Buch ist genau das Richtige für Sie, wenn: Sie bereits eine Katze haben Sie planen, sich eine Katze anzuschaffen Sie Ihre Katze richtig erziehen möchten Sie Ihre Katze nicht nur richtig halten und pflegen, sondern auch artgerecht beschäftigen und fördern möchten Sie einen Schritt für Schritt Leitfaden haben möchten, um Ihre Katze bestmöglich zu trainieren und zu erziehen Dieses Buch verrät Ihnen alles rund um die richtige Haltung, Pflege und Beschäftigung der Katze. Unter anderem werden folgende Fragen beantwortet: Welche Katzenrassen gibt es? Was sollten Sie vor der Anschaffung einer Katze bedenken? Welche Katzenart passt am Besten zu Ihnen? Wie bereiten Sie sich auf den Einzug Ihrer Katze bzw. Babykatze vor? Was spricht für Kitten, was für ausgewachsene Katzen? Wie vergesellschaftet man zwei Katzen? Was ist eine katzengerechte Einrichtung? Welches Katzenfutter ist empfehlenswert? Was ist geeignetes Katzenspielzeug bzw. Intelligenzspielzeug? Was hat es mit Catnip (Katzenminze) auf sich? Wie deuten Sie die Körpersprache richtig? Wie gelingt die Katzenerziehung? Wie wird Ihr Haustier stubenrein? Mit welchen Tricks und Katzenspielen können Sie Ihren Kater am besten beschäftigen und fördern? Das Wissen in diesem Buch bietet Ihnen höchsten Mehrwert, ganz gleich, ob Sie bereits Erfahrung mit Katzen haben oder gerade erst ,,auf die Katze gekommen sind\". Die wissenschaftlich fundierten Tipps und Tricks sowie tierfreundlichen und vom Profi entwickelten Erziehungsmethoden können Sie sofort mit Ihrer Katze ausprobieren. Erfolge werden sich schnell einstellen! Klicken Sie auf ,,JETZT KAUFEN\" und setzen Sie hilfreichen Tipps zum Katzentraining direkt in die Tat um. Noch heute können Sie mit der richtigen Erziehung Ihrer Katze beginnen, aber auch lernen ihre Sprache zu verstehen.Für ein glückliches und harmonisches Leben mit Ihrer Katze!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1704191173"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781704191171"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 106,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "de",
+    "previewLink": "http://books.google.de/books?id=OJO-ywEACAAJ&dq=katze&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.de/books?id=OJO-ywEACAAJ&dq=katze&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Katzenerziehung.html?hl=&id=OJO-ywEACAAJ"
+   },
+   "saleInfo": {
+    "country": "DE",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "DE",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=OJO-ywEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Katzenerziehung - Das neue Buch von Bestseller Autor Theodor Roswell! Sie halten eine oder mehrere Katzen? Oder Sie planen, sich eine Katze anzuschaffen? Sie möchten bei der Katzenerziehung alles richtig machen?"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4dyvnJ4RdBIC",
+   "etag": "aupgk+86EUg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4dyvnJ4RdBIC",
+   "volumeInfo": {
+    "title": "Behandlung von Verhaltensproblemen bei Hund und Katze",
+    "subtitle": "ein Leitfaden für die tierärztliche Praxis ; mit 9 Tabellen",
+    "authors": [
+     "Henry R. Askew"
+    ],
+    "publisher": "Georg Thieme Verlag",
+    "publishedDate": "2003",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3826333993"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783826333996"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 412,
+    "printType": "BOOK",
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=4dyvnJ4RdBIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=4dyvnJ4RdBIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.de/books?id=4dyvnJ4RdBIC&pg=PA342&dq=katze&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.de/books?id=4dyvnJ4RdBIC&dq=katze&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Behandlung_von_Verhaltensproblemen_bei_H.html?hl=&id=4dyvnJ4RdBIC"
+   },
+   "saleInfo": {
+    "country": "DE",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "DE",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=4dyvnJ4RdBIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Uriniert eine \u003cb\u003eKatze\u003c/b\u003e wiederholt im Haus außerhalb der Katzentoilette, ist als erstes \u003cbr\u003e\nabzuklären, ob es sich hierbei um Urinmarkieren oder normalen Harnabsatz \u003cbr\u003e\nhandelt. Wie im letzten Kapitel beschrieben, kann dies manchmal schwierig sein,\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "u4edKV_PhDQC",
+   "etag": "YdVH76zogRs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/u4edKV_PhDQC",
+   "volumeInfo": {
+    "title": "Geriatrie bei Hund und Katze",
+    "authors": [
+     "Wilfried Kraft"
+    ],
+    "publisher": "Georg Thieme Verlag",
+    "publishedDate": "2003",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3830440995"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783830440994"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 345,
+    "printType": "BOOK",
+    "categories": [
+     "Pet medicine"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=u4edKV_PhDQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=u4edKV_PhDQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.de/books?id=u4edKV_PhDQC&pg=PA127&dq=katze&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.de/books?id=u4edKV_PhDQC&dq=katze&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Geriatrie_bei_Hund_und_Katze.html?hl=&id=u4edKV_PhDQC"
+   },
+   "saleInfo": {
+    "country": "DE",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "DE",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=u4edKV_PhDQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Spezielle Krankheiten und Symptome des Magen-Darm-Trakts Krankheiten der \u003cbr\u003e\nMundhöhle Mundschleimhautentzündung (Stomatitis) Die Entzündung des \u003cbr\u003e\nZahnfleischs gehört bei der \u003cb\u003eKatze\u003c/b\u003e zu den häufigsten Krankheiten dieser Tierart&nbsp;..."
+   }
+  }
+ ]
+}
