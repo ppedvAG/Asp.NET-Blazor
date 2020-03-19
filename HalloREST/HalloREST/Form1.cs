@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Newtonsoft.Json;
+using System;
+using System.Linq;
 using System.Net.Http;
 using System.Windows.Forms;
 
@@ -22,6 +24,10 @@ namespace HalloREST
             var http = new HttpClient();
             var json = await http.GetStringAsync(url);
 
+            BookResults br = JsonConvert.DeserializeObject<BookResults>(json);
+
+
+            dataGridView1.DataSource = br.items.Select(x => x.volumeInfo).ToList();
         }
     }
 }

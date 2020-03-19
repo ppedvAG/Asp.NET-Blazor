@@ -7,8 +7,7 @@ using System.Threading.Tasks;
 namespace HalloREST
 {
 
-
-    public class Rootobject
+    public class BookResults
     {
         public string kind { get; set; }
         public int totalItems { get; set; }
@@ -34,12 +33,12 @@ namespace HalloREST
         public string[] authors { get; set; }
         public string publisher { get; set; }
         public string publishedDate { get; set; }
-        public string description { get; set; }
         public Industryidentifier[] industryIdentifiers { get; set; }
         public Readingmodes readingModes { get; set; }
         public int pageCount { get; set; }
         public string printType { get; set; }
-        public string[] categories { get; set; }
+        public float averageRating { get; set; }
+        public int ratingsCount { get; set; }
         public string maturityRating { get; set; }
         public bool allowAnonLogging { get; set; }
         public string contentVersion { get; set; }
@@ -49,6 +48,8 @@ namespace HalloREST
         public string previewLink { get; set; }
         public string infoLink { get; set; }
         public string canonicalVolumeLink { get; set; }
+        public string description { get; set; }
+        public string[] categories { get; set; }
     }
 
     public class Readingmodes
@@ -135,14 +136,12 @@ namespace HalloREST
     public class Epub
     {
         public bool isAvailable { get; set; }
-        public string acsTokenLink { get; set; }
     }
 
     public class Pdf
     {
         public bool isAvailable { get; set; }
         public string acsTokenLink { get; set; }
-        public string downloadLink { get; set; }
     }
 
     public class Searchinfo
