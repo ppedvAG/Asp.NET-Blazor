@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  halloweb:
+    image: ${DOCKER_REGISTRY-}halloweb
+    build:
+      context: .
+      dockerfile: HalloWeb/Dockerfile
