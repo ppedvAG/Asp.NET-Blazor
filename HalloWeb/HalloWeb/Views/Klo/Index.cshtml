@@ -1,0 +1,59 @@
+﻿@model IEnumerable<HalloWeb.Models.Klopapier>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.AnzahlBlatt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Hersteller)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Produkt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Langen)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Duft)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.AnzahlBlatt)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Hersteller)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Produkt)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Langen)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Duft)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
